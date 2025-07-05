@@ -1,4 +1,5 @@
 Hi there 👋
+
 I'm a data engineer passionate about building reliable, efficient and scalable data solutions — and simplifying complex data concepts for others along my learning journey.
 
 I design and build data pipelines, architectures and analytics solutions that drive well-informed business decisions. My core tools include Python, SQL, Power BI, Microsoft Fabric, SQL Server and PostgreSQL, with a strong focus on cloud-based solutions using Microsoft Azure.
