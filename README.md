@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there 👋
+I'm a data engineer passionate about building reliable, efficient and scalable data solutions — and simplifying complex data concepts for others along my learning journey.
+
+I design and build data pipelines, architectures and analytics solutions that drive well-informed business decisions. My core tools include Python, SQL, Power BI, Microsoft Fabric, SQL Server and PostgreSQL, with a strong focus on cloud-based solutions using Microsoft Azure.
+
+Before transitioning into data engineering, I worked across multiple domains in mechatronics — including embedded systems, drones, hardware design, and the Internet of Things (IoT). This cross-disciplinary background gives me a unique perspective on integrating physical systems with digital intelligence.
+
 
 <!--
 **faithhunja/faithhunja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
