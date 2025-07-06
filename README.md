@@ -1,23 +1,25 @@
-Hi there 👋
+# 👋 Hi there, I'm [Faith Hunja]
 
-I'm a data engineer passionate about building reliable, efficient and scalable data solutions — and simplifying complex data concepts for others along my learning journey.
+I'm a **Data Engineer**.
 
-I design and build data pipelines, architectures and analytics solutions that drive well-informed business decisions. My core tools include Python, SQL, Power BI, Microsoft Fabric, SQL Server and PostgreSQL, with a strong focus on cloud-based solutions using Microsoft Azure.
+🔧 My core tools include:
+- 🐍 Python
+- 🧮 SQL
+- 🧱 Microsoft Fabric
+- 📊 Power BI
+- 🗄️ SQL Server 
+I primarily work with cloud-based solutions on **Microsoft Azure** ☁️
 
-Before transitioning into data engineering, I worked across multiple domains in mechatronics — including embedded systems, drones, hardware design, and the Internet of Things (IoT). This cross-disciplinary background gives me a unique perspective on integrating physical systems with digital intelligence.
+---
 
+### 🌱 Currently Learning
+- Kubernetes & Cloud Native Ecosystems
+- Data Modelling
+- More hands-on with Microsoft Fabric
 
-<!--
-**faithhunja/faithhunja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📬 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/faithhunja)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! 😊
