@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Faith Hunja
-
 I'm a **Data Engineer**.
 
 🔧 My core tools include:
