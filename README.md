@@ -1,4 +1,4 @@
-I'm a **Data Engineer**.
+Hello, I'm **Faith Hunja**. I'm a **Data Engineer**.
 
 🔧 My core tools include:
 - 🐍 Python
@@ -6,6 +6,7 @@ I'm a **Data Engineer**.
 - 🧱 Microsoft Fabric
 - 📊 Power BI
 - 🗄️ SQL Server 
+
 I primarily work with cloud-based solutions on **Microsoft Azure** ☁️
 
 ---
